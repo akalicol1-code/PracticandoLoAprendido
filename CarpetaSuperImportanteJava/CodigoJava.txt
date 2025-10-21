@@ -2,3 +2,7 @@ Se supone que aca iría el archivo java del proyecto
 
 
 se agregaron nuevas lineaas a la parte de java
+
+
+
+ANALIZANDO TODO DESDE GITHUB
